@@ -19,8 +19,8 @@ U /"___|u        \/"_ \/     |'| |'|     U  /"\  u     U /"___|      |"|/ /
                                                                                                                                                          
 EOF
 
-mkdir Toolkit
-cd Toolkit
+mkdir Hacking-Tools
+cd Hacking-Tools
 
 echo "Directory created successfully"
 
@@ -86,6 +86,19 @@ git clone https://github.com/sqlmapproject/sqlmap.git
 git clone https://github.com/davidpepper/fierce-domain-scanner.git
 git clone https://github.com/Mebus/cupp.git
 git clone https://github.com/digininja/CeWL.git
+git clone https://github.com/jesparza/peepdf.git
+git clone https://github.com/reverse-shell/routersploit.git
+git clone https://github.com/google/sandbox-attacksurface-analysis-tools.git
+git clone https://github.com/sophron/wifiphisher.git
+git clone https://github.com/wpscanteam/wpscan.git
+git clone https://github.com/Yara-Rules/rules.git
+git clone git://github.com/cuckoosandbox/cuckoo.git
+git clone https://github.com/juansacco/exploitpack.git
+git clone https://github.com/BlackArch/webshells.git
+git clone https://github.com/EgeBalci/HERCULES.git
+git clone https://github.com/EgeBalci/Cminer.git
+git clone https://github.com/EgeBalci/The-Eye.git
+git clone https://github.com/DanMcInerney/wifijammer.git
 git clone https://github.com/iagox86/dnscat2.git
 git clone https://github.com/ryhanson/phishery.git
 git clone https://github.com/JusticeRage/Manalyze.git
@@ -106,21 +119,9 @@ git clone git://git.kali.org/packages/joomscan.git
 git clone https://github.com/hexploitable/MEMSCAN.git
 git clone https://github.com/hiddenillusion/AnalyzePDF.git
 git clone https://github.com/smalot/pdfparser.git
-git clone https://github.com/jesparza/peepdf.git
-git clone https://github.com/reverse-shell/routersploit.git
-git clone https://github.com/google/sandbox-attacksurface-analysis-tools.git
-git clone https://github.com/sophron/wifiphisher.git
-git clone https://github.com/wpscanteam/wpscan.git
-git clone https://github.com/Yara-Rules/rules.git
-git clone git://github.com/cuckoosandbox/cuckoo.git
-git clone https://github.com/juansacco/exploitpack.git
-git clone https://github.com/BlackArch/webshells.git
-git clone https://github.com/EgeBalci/HERCULES.git
-git clone https://github.com/EgeBalci/Cminer.git
-git clone https://github.com/EgeBalci/The-Eye.git
-git clone https://github.com/DanMcInerney/wifijammer.git
 
 
-echo FINISH!!! Now ENJOY!!!
+echo FINISH!!! Now ENJOY Bro!!!
+echo Have Fun !!!
 clear
 ls
